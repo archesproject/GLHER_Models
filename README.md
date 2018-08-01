@@ -1,4 +1,4 @@
-# GLHER_Models
+# glher-pkg
 
 ## Loading instructions
 To rebuild your current database and load this package run the following command using the `manage.py` file in your project:
